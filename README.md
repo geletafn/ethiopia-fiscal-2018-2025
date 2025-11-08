@@ -23,7 +23,6 @@ This repository provides **cleaned, citable, and reproducible fiscal data** for 
 | **Disaggregated Categories** | War Finance, Green Infrastructure, Social Spending, Debt Service |
 | **Nominal ETB Values** | Total expenditure: **ETB 387B → 1,930B** (+398%) |
 | **Reproducible** | Python/R scripts for FRED, World Bank, MoFED extraction |
-| **PhD-Ready** | Used in SNSF Spark / Doc.CH / IHEID PhD applications |
 | **Open Science** | CSV, Excel, Charts, Citation-ready |
 
 ---
