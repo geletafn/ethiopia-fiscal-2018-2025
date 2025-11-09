@@ -1,6 +1,6 @@
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14678901.svg)](https://doi.org/10.5281/zenodo.14678901)
-
+[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14678901.svg)](https://doi.org/10.5281/zenodo.14678901)
+](https://doi.org/10.5281/zenodo.17561561)
 # Ethiopia Federal Budget Dataset (2018–2025)
 
 **Open-access fiscal panel | FRED + IMF + MoFED**  
