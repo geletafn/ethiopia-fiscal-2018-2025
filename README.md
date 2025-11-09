@@ -1,11 +1,12 @@
-**DRAFT**
-# **Ethiopia Federal Budget Dataset (2018–2025)**  
-**First Open-Access, Machine-Readable Fiscal Time Series for Post-EPRDF Ethiopia**  
-**By Fekadu Geleta, Independent Researcher, Switzerland**  
-**DOI**: 
-https://doi.org/10.5281/zenodo.xxxx
-**License**: CC-BY-4.0  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14678901.svg)](https://doi.org/10.5281/zenodo.14678901)
+
+# Ethiopia Federal Budget Dataset (2018–2025)
+
+**Open-access fiscal panel | FRED + IMF + MoFED**  
+**Total: ETB 387B → 1,930B (+398%) | War: +545% | Debt: +1187%**
+
+[Download Excel](https://github.com/geletafn/ethiopia-fiscal-2018-2025/raw/main/ethiopia_fred_analysis.xlsx)
 ---
 
 ## **Project Overview**  
