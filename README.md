@@ -13,7 +13,7 @@
 This repository provides **cleaned, citable, and reproducible fiscal data** for Ethiopia from **2018 to 2025**, covering the **post-EPRDF transition** under Prime Minister Abiy Ahmed.  
 
 **Core Question**:  
-> **How did war finance, green ambition, IMF liberalisation, and inflation reshape public expenditure in a fragile developmental state?**  
+> **How did war finance, green ambition, IMF liberalisation, and inflation reshape public expenditure in Ethiopia?**  
 
 ---
 
