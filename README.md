@@ -1,9 +1,9 @@
-
+**DRAFT**
 # **Ethiopia Federal Budget Dataset (2018–2025)**  
 **First Open-Access, Machine-Readable Fiscal Time Series for Post-EPRDF Ethiopia**  
-**By [Fekadu Geleta], Independent Researcher, Switzerland**  
+**By Fekadu Geleta, Independent Researcher, Switzerland**  
 **DOI**: 
-https://doi.org/10.5281/zenodo.13793618
+https://doi.org/10.5281/zenodo.xxxx
 **License**: CC-BY-4.0  
 
 ---
